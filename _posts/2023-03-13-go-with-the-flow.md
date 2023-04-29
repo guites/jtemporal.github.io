@@ -29,7 +29,6 @@ In this talk, you will see how an API differs from a regular web application. We
 
 If you are tired of getting confused by all of these concepts, this talk is for you.
 
-
 [Slides](/slides/gowiththeflow/).
 
 [Code](https://github.com/jtemporal/gowiththeflow/).
