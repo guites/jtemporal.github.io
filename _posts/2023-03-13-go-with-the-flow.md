@@ -19,6 +19,7 @@ posts_list:
 - introducing-gitfichas
 
 ---
+
 First international keynote ❤️
 
 Tired of getting confused about concepts like authentication, authorization, access tokens, ID tokens, client credentials, OpenID Connect, and OAuth2.0? In this talk, you’ll learn how they come into play for the different scenarios so you never get confused again.
